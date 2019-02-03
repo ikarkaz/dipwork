@@ -1,2 +1,2 @@
 # dipwork
-certification work
+Проект дипломной работы.

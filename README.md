@@ -1,2 +1,1 @@
-# dipwork
-Проект дипломной работы.
+text Message in base64

@@ -1,1 +1,1 @@
-Hi, its test text
+text Message in base64

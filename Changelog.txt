@@ -17,9 +17,9 @@
 				"name":"Создание GUI ИС",
 				"description":"Частично реализована библиотека QT_UI_Form",
 				"git_commit":"121d967816e44a4e74de0f7620dd48035b6c0a88",
-				"git_link":"RMSQTViewModels.py"
+				"git_link":"RMSQTViewModels.py",
 				"status":"WIP"
-			},
+			}
 		]
 	}
 }

@@ -5,20 +5,20 @@
 			{
 				"external_id":100,
 				"parent_id":1,
-				"name":"Создание прототипа",
-				"description":"Cоздан консольный прототип ИС",
-				"git_commit":"105e45f49879a3a36f7302c8b3233de981494b7e",
+				"name":"2__Создание прототипа",
+				"description":"2__Cоздан консольный прототип ИС",
+				"git_commit":"2__105e45f49879a3a36f7302c8b3233de981494b7e",
 				"git_link":"status/TestFileName1.py",
-				"status":"CLS"
+				"status":"NEW"
 			},
 			{
 				"external_id":101,
 				"parent_id":1,
-				"name":"Создание GUI ИС",
-				"description":"Частично реализована библиотека QT_UI_Form",
-				"git_commit":"121d967816e44a4e74de0f7620dd48035b6c0a88",
+				"name":"2__Создание GUI ИС",
+				"description":"2__Частично реализована библиотека QT_UI_Form",
+				"git_commit":"2__121d967816e44a4e74de0f7620dd48035b6c0a88",
 				"git_link":"RMSQTViewModels.py",
-				"status":"WIP"
+				"status":"CLS"
 			}
 		]
 	}

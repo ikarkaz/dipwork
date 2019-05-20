@@ -11,15 +11,6 @@
 				"git_link":"status/TestFileName1.py",
 				"status":"NEW"
 			},
-			{
-				"external_id":101,
-				"parent_id":2,
-				"name":"2__Создание GUI ИС",
-				"description":"2__Частично реализована библиотека QT_UI_Form",
-				"git_commit":"2__121d967816e44a4e74de0f7620dd48035b6c0a88",
-				"git_link":"RMSQTViewModels.py",
-				"status":"CLS"
-			}
 		]
 	}
 }

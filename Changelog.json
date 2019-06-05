@@ -11,6 +11,15 @@
 				"git_link":"status/TestFileName1.py",
 				"status":"WIP"
 			}
+			{
+				"external_id":9,
+				"parent_id":9,
+				"name":"Создание прототипа Тестовые данные",
+				"description":"Cоздан графический Тестовые данные",
+				"git_commit":"2__105e45f49879a3Тестовые данныеe981494b7e",
+				"git_link":"status/TestFileName2.py",
+				"status":"CLS"
+			}
 		]
 	}
 }

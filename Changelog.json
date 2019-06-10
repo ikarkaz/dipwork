@@ -3,8 +3,8 @@
 		"repository":"dipwork",
 		"modifications":[
 			{
-				"external_id":11,
-				"parent_id":11,
+				"external_id":1,
+				"parent_id":1,
 				"name":"Создание прототипа Системы",
 				"description":"Cоздан графический прототип ИС",
 				"git_commit":"2__105e45f49879a3a36f7302c8b3233de981494b7e",
@@ -12,12 +12,30 @@
 				"status":"WIP"
 			},
 			{
-				"external_id":10,
-				"parent_id":10,
-				"name":"Создание прототипа Тестовые данные",
+				"external_id":2,
+				"parent_id":2,
+				"name":"Создание прототипа Тестовые данные2",
 				"description":"Cоздан графический Тестовые данные",
 				"git_commit":"2__105e45f49879a3Тестовые данныеe981494b7e",
 				"git_link":"status/TestFileName2.py",
+				"status":"CLS"
+			},
+						{
+				"external_id":3,
+				"parent_id":3,
+				"name":"Создание прототипа Тестовые данные3",
+				"description":"Cоздан графический Тестовые данные",
+				"git_commit":"2__105e45f49879a3Тестовые данныеe981494b7e",
+				"git_link":"status/TestFileName3.py",
+				"status":"CLS"
+			},
+						{
+				"external_id":4,
+				"parent_id":4,
+				"name":"Создание прототипа Тестовые данные4",
+				"description":"Cоздан графический Тестовые данные",
+				"git_commit":"2__105e45f49879a3Тестовые данныеe981494b7e",
+				"git_link":"status/TestFileName4.py",
 				"status":"CLS"
 			}
 		]
